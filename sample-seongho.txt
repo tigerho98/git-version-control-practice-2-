@@ -1,4 +1,5 @@
 TODO LIST
 - 생활코딩 공부
 - 책 주문
-- ?
+- test
+- ok
